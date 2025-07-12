@@ -1,0 +1,72 @@
+body {
+     background-color: orange;
+}
+
+h1 {
+   color: black;
+   text-align: center;
+   font-family: Courier New;
+   background-color: lime;
+   text-shadow: 4px 4px 6px green;
+}
+
+h2 {
+   color: #FF0000;
+   font-family: Arial, monospace;
+   text-align: center;
+   text-shadow: 2px 2px 3px mediumseagreen;
+}
+
+h3 {
+   color: black;
+   font-family: 'Lucida Console', Monospace;
+   font-size: 22px;
+   text-align: center;
+   text-shadow: 2px 2px 3px lightgrey;
+}
+   
+p {
+   color: darkblue;
+   font-family: 'Comic Sans MS', 'Brush Script MT', Cursive;
+}
+
+marquee {
+   color: darkblue;
+   font-family: 'Comic Sans MS';
+}
+
+a:hover {
+  color: hotpink;
+}
+
+div {
+  background-color: white;
+  padding: 50px;
+  margin: 10px;
+  border: 8px dashed darkblue;
+  max-width: 50%;
+  float: left;
+  outline-color: lime;
+  outline-style: dotted;
+}
+
+div2 {
+  background-color: dodgerblue;
+  padding: 10px;
+  margin: 10px;
+  border: 8px ridge dodgerblue;
+  max-width: 45%;
+  float: right;
+  outline-color: lime;
+  outline-style: dotted;
+}
+
+div3 {
+  background-color: white;
+  margin: 10px;
+  border: 8px solid darkblue;
+  max-width: 40%;
+  text-align: center;
+  outline-color: orange;
+  outline-style: dotted;
+}
